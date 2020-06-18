@@ -10,3 +10,8 @@ This model Do following:
 3. convert between the RGB, BGR, and YCrCb color spaces,
 4. build deep neural networks in Keras,
 5. deploy and evaluate the SRCNN network
+
+
+Instructions:
+1. Source folder contains sample images
+2. results folder contains enhanced images
